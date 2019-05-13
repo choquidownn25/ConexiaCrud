@@ -1,8 +1,16 @@
+<%@ page language="java" contentType="text/html; charset=ISO-8859-1"
+    pageEncoding="ISO-8859-1"%>
+<!DOCTYPE html>
 <html>
 <head>
 	<title>Prueba Conexa</title>
 </head>
 <body>
+
+<%@page import="com.programmingfree.controller.CRUDController"%>
+<%@ page import="java.util.Date" %>
+
+
 	<center>
 		<h1>Mesa</h1>
         <h2>
